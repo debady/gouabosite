@@ -1,0 +1,24 @@
+body{
+    background-color:yellowgreen;
+    font-family:sans-serif 
+}
+img{
+    width: 100px;
+    border-radius: 50px;
+
+}
+img:hover{
+    width: 200px;
+    padding-left: -5;
+}
+
+a{
+    text-decoration: none;;
+
+
+}
+a:hover{
+    color: rgb(28, 102, 199);
+    box-shadow: blue 5px solid;
+
+}
